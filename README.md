@@ -1,5 +1,5 @@
 # NLP-Beginner：自然语言处理入门练习
-我在Colab上完成了https://github.com/FudanNLP/nlp-beginner里的练习题，完成结果可以参考仓库里的ipynb文件，也可以访问下方的链接。
+我在Colab上完成了https://github.com/FudanNLP/nlp-beginner 里的练习题，完成结果可以参考仓库里的ipynb文件，也可以访问下方的链接。
 
 具体每个任务的Colab链接如下：
 
